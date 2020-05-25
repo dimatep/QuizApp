@@ -18,9 +18,10 @@ class MainActivity : AppCompatActivity() {
 
         start_btn.setOnClickListener {
             if (name_et.text.toString().isEmpty()) {
-                Toast.makeText(this, "Plese enter your name", Toast.LENGTH_SHORT).show()
+                Toast.makeText(this, "Please enter your name", Toast.LENGTH_SHORT).show()
             } else {
                 val intent = Intent(this, QuizQuestionsActivity::class.java)
+                intent.putExtra(Constants.USER_NAME, name_et.text.toString())
                 startActivity(intent) // move to other activity
                 finish() // close this activity
             }

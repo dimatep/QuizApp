@@ -2,6 +2,10 @@ package learning.self.kotlin.quizapp
 
 object Constants{
 
+    const val USER_NAME : String = "user_name"
+    const val TOATAL_QUESTIONS : String = "total_questions"
+    const val USER_SCORE: String = "user_score"
+
     fun getQuestions():ArrayList<Question>{
         val questionsList = ArrayList<Question>()
 
