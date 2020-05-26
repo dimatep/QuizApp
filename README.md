@@ -23,3 +23,7 @@ Simple Flags Quiz Application in Kotlin language
 **Select the wrong answer**
 <br>
 <img src="https://user-images.githubusercontent.com/51478377/82756284-0927e280-9de2-11ea-8c49-38b8ec1856d6.jpeg" width = "300" height="600">
+<br>
+**Result Screen**
+<br>
+<img src="https://user-images.githubusercontent.com/51478377/82904032-8da56d00-9f6a-11ea-954a-24965f063c86.jpeg" width = "300" height="600">
