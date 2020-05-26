@@ -1,6 +1,6 @@
 # QuizApp
 
-Simple Flags Quiz Application in Kotlin language
+Simple Flags Quiz Android Application in Kotlin language
 
 ## Screenshots 
 **Icon**
